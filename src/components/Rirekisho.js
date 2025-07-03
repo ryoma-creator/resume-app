@@ -379,6 +379,15 @@ export default function Rirekisho() {
                 <td></td>
                 <ContentCell>フロントエンド技術継続学習中（React/Next.js、TypeScript等）</ContentCell>
               </tr>
+              <tr>
+                <td>継続中</td>
+                <td></td>
+                <ContentCell>ポートフォリオサイト・Webアプリケーション4件公開中<br/>
+                ・ポートフォリオサイト：https://portfolio-url.vercel.app<br/>
+                ・ECサイト：https://ecommerce-url.vercel.app<br/>
+                ・タスク管理ツール：https://todo-url.vercel.app<br/>
+                ・天気予報アプリ：https://weather-url.vercel.app</ContentCell>
+              </tr>
             </tbody>
           </QualificationTable>
 
