@@ -383,10 +383,10 @@ export default function Rirekisho() {
                 <td>継続中</td>
                 <td></td>
                 <ContentCell>ポートフォリオサイト・Webアプリケーション4件公開中<br/>
-                ・ポートフォリオサイト：https://portfolio-url.vercel.app<br/>
-                ・ECサイト：https://ecommerce-url.vercel.app<br/>
-                ・タスク管理ツール：https://todo-url.vercel.app<br/>
-                ・天気予報アプリ：https://weather-url.vercel.app</ContentCell>
+                ・ポートフォリオサイト：https://my-portfolio-website-lake.vercel.app/<br/>
+                ・ECサイト：https://ecommerce-p66q.vercel.app/<br/>
+                ・タスク管理ツール：https://todo-app-kappa-ochre.vercel.app/<br/>
+                ・天気予報アプリ：https://weather-app-eight-amber-29.vercel.app/</ContentCell>
               </tr>
             </tbody>
           </QualificationTable>
