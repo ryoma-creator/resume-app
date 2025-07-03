@@ -208,13 +208,13 @@ export default function Rirekisho() {
               <tr>
                 <LabelCell>ふりがな</LabelCell>
                 <td colSpan="3" style={{fontSize: '8pt'}}>
-                  ビージーシー、タギッグ、メトロマニラ
+                  トリオンタワーズ、ビージーシー、タギッグ、メトロマニラ
                 </td>
               </tr>
               <tr>
                 <LabelCell>現住所</LabelCell>
                 <td colSpan="3" style={{fontSize: '8pt'}}>
-                  〒1630　BGC, Taguig, Metro Manila, Philippines
+                  〒1634　Trion Towers, BGC, Taguig, Metro Manila, Philippines
                 </td>
               </tr>
               <tr>
